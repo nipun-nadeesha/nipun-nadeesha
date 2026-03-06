@@ -1,67 +1,82 @@
 <a id="readme-top"></a>
 
-<!-- TOP ANIMATION VIDEO -->
+<!-- TOP ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </p>
 
-<h1 align="center">Hi 👋 I'm Nipun Nadeesha</h1>
+<h1 align="center">Nipun Nadeesha</h1>
 
 <p align="center">
-  💻 Software Engineering Student <br>
-  🚀 Passionate about Coding & Development
+Backend Developer | Software Engineering Student
+</p>
+
+<p align="center">
+Passionate about building efficient backend systems, APIs, and scalable software solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-| Detail | Information |
-|------|-------------|
-| **Name** | Nipun Nadeesha |
-| **Age** | 23 |
-| **Major** | Software Engineering |
-| **Interest** | Programming, Web Development, Open Source |
+Hello! I'm **Nipun Nadeesha**, a **23-year-old Software Engineering student** specializing in **Backend Development**.  
+I enjoy designing backend architectures, working with databases, and building reliable server-side applications.
 
-I am a **Software Engineering student** who enjoys building projects, learning new technologies, and improving coding skills every day.
+- **Name:** Nipun Nadeesha  
+- **Age:** 23 Years  
+- **Role:** Backend Developer  
+- **Field:** Software Engineering  
 
 ---
 
-## 🚀 Skills
+## 🚀 Technical Skills
 
 <p align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="170">
 
 </p>
+
+---
+
+## 🎯 Career Goals
+
+- Improve **Backend Development Skills**
+- Build **Scalable APIs and Web Services**
+- Learn **Advanced Software Architecture**
+- Contribute to **Open Source Projects**
 
 ---
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com  
-🌐 GitHub: https://github.com/YOUR_USERNAME
+**Name:** Nipun Nadeesha  
+**GitHub:** https://github.com/yourusername  
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider giving a star!
+⭐ If you like my work, feel free to explore my repositories!
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
