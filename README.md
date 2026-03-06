@@ -1,6 +1,13 @@
 ## Hi there 👋
 <p align="center">
-<img src="assets/icon-1024x1024.png" width="150">
+<p align="center">
+  <img src="assets/coding-animation.gif" width="250">
+</p>
+
+<h1 align="center">Nipun Nadeesha</h1>
+<p align="center">
+UG Software Engineering Student
+</p>
 </p>
 
 <div align="center">
