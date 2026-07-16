@@ -72,44 +72,13 @@ Passionate about software development, UI/UX design, problem-solving, and buildi
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunnadeesha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunnadeesha&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nipunnadeesha&theme=tokyonight)
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/nipunnadeesha/nipunnadeesha/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # 📫 Contact Me
 
 - 📧 **Email:** nipunnadeesha2002@gmail.com
 - 💻 **GitHub:** https://github.com/nipunnadeesha
 - 🌐 **Portfolio:** Coming Soon
-- 💼 **LinkedIn:** [](https://www.linkedin.com/in/nipun-nadeesha-281640374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nipun-nadeesha-281640374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
