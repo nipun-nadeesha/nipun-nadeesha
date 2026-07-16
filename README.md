@@ -2,12 +2,12 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 
-# 👋 Hello, I'm Chanupa Dewmith
+# 👋 Hello, I'm Nipun Nadeesha
 
-### 🎨 UI/UX Engineer | Creative Designer
+### 💻 Software Engineering Undergraduate | Aspiring Software Engineer
 
 <p>
-Passionate about designing user-friendly, modern, and visually engaging digital experiences.
+Passionate about software development, UI/UX design, problem-solving, and building innovative digital solutions. I enjoy learning new technologies and continuously improving my programming skills.
 </p>
 
 </div>
@@ -16,51 +16,107 @@ Passionate about designing user-friendly, modern, and visually engaging digital 
 
 # 👨‍💻 About Me
 
-- 👤 **Name:** Chanupa Dewmith  
-- 🎂 **Age:** 21  
-- 💼 **Major:** UI/UX Engineer  
-- 🎯 **Focus:** User Interface Design & User Experience Research  
-- 🌍 **Goal:** Create simple and beautiful digital experiences
+- 👤 **Name:** Nipun Nadeesha
+- 🎂 **Age:** 23
+- 🎓 **Major:** BSc (Hons) Software Engineering
+- 💼 **Role:** Software Engineering Undergraduate
+- 🌱 **Currently Learning:** Java, Spring Boot, Web Development, Software Architecture
+- 🎯 **Goal:** Become a Full-Stack Software Engineer
+- 🌍 **Location:** Sri Lanka
 
 ---
 
 # 🛠 Skills
 
-- 🎨 UI Design  
-- 📱 UX Research  
-- 🧩 Wireframing  
-- 🖌 Prototyping  
-- 💻 Basic Frontend Design  
+- 💻 Java
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- ☕ Spring Boot (Learning)
+- 🗄 SQL & Database Design
+- 🎨 UI/UX Fundamentals
+- 📊 Data Analysis with SPSS
+- 🔧 Git & GitHub
 
 ---
 
-# 🚀 Tools I Use
+# 🚀 Technologies & Tools
 
-- Figma  
-- Adobe XD  
-- Photoshop  
-- Illustrator  
+- Visual Studio Code
+- IntelliJ IDEA
+- Eclipse
+- Git & GitHub
+- MySQL
+- Figma
+- Postman
+- XAMPP
 
 ---
 
-# 🎬 UI/UX Animation Demo
+# 📚 Currently Studying
+
+- Software Architecture & Design
+- Operating Systems
+- Database Management Systems
+- Statistics
+- Programming & Algorithms
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Improve Java & Spring Boot skills
+- 🌐 Build Full-Stack Web Applications
+- 📱 Learn Mobile App Development
+- 🤝 Contribute to Open Source Projects
+- 📖 Learn New Technologies Every Day
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunnadeesha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunnadeesha&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
+# 🔥 GitHub Streak
 
+<div align="center">
 
-# 📫 Contact Me
+![GitHub Streak](https://streak-stats.demolab.com?user=nipunnadeesha&theme=tokyonight)
 
-- 📧 Email:chanupadewmith5678@gmail.com
-- 🌐 Portfolio: coming soon  
-- 💻 GitHub: https://github.com/chanupadewmith
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+# 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/nipunnadeesha/nipunnadeesha/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+- 📧 **Email:** nipunnadeesha2002@gmail.com
+- 💻 **GitHub:** https://github.com/nipunnadeesha
+- 🌐 **Portfolio:** Coming Soon
+- 💼 **LinkedIn:** [](https://www.linkedin.com/in/nipun-nadeesha-281640374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
+
+</div>
