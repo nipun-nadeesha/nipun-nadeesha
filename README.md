@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
+</p>
 
 # 👋 Hello, I'm Nipun Nadeesha
 
